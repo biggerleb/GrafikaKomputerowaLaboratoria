@@ -1,0 +1,4 @@
+lewy górny róg - 0, 0
+prawy dolny róg - 1, 1
+lewy dolny róg - 0, 1
+prawy górny - 1, 0
