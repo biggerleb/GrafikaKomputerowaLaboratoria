@@ -1,0 +1,12 @@
+1. texture stuff [268:]
+2. uMVMatrix<X>, uMVScale, uMVObject, uMVMatrix multiplications [347:]
+3. wywoływanie renderowania [499:]
+
+
+
+1.ziemia
+2.mars
+3.slonce
+4.merkury
+5.jowisz
+6.wenus
